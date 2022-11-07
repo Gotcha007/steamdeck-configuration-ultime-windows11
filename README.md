@@ -2,7 +2,7 @@
 
 [![](https://github.com/Gotcha007/steamdeck-configuraton-ultime-windows11/blob/main/images/home/home.png)](https://github.com/Gotcha007/steamdeck-configuraton-ultime-windows11/wiki)
 
-
+Guide configuration de windows 11 pour la steam deck. Ce guide est maintenu par la commu Puissance Steam Deck.
 Ce tuto est basé sur le magnifique guide fait par baldsealion que vous pouvez retrouver [ici](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide)
 
 
