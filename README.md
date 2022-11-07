@@ -1,4 +1,3 @@
-# steamdeck-configuraton-ultime-windows11
 [![](https://github.com/Gotcha007/steamdeck-configuraton-ultime-windows11/blob/main/images/Psteam-deck-white-1-2-1-3.svg)](https://puissancesteamdeck.com/)
 Guide de configuration ultime pour Windows 11 sur le Steam Deck
 
